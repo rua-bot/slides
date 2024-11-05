@@ -1,2 +1,2 @@
 # slides
-This 
+This repository is used to manage slides.
